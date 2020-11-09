@@ -2,9 +2,8 @@
 title: test
 date: '2020-11-09T15:25:01+00:00'
 author: test
+last_edited: '2020-11-09T15:26:02.505Z'
 ---
-
-
 * What is the core team's current objectives?
 * What was accomplished in the last week?
 * What's next for the core team?
@@ -26,10 +25,11 @@ Thanks to everyone for contributing!
 
 | # Commits | Name |
 | --- | --- |
-| | |
-| | |
-| | |
-| | |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## GitHub Milestones
 
